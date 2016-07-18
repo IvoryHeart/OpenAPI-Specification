@@ -1,5 +1,7 @@
 # The OpenAPI Specification (fka The Swagger Specification)
 
+[![Join the chat at https://gitter.im/IvoryHeart/OpenAPI-Specification](https://badges.gitter.im/IvoryHeart/OpenAPI-Specification.svg)](https://gitter.im/IvoryHeart/OpenAPI-Specification?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/swagger-api/swagger-spec.svg?branch=master)](https://travis-ci.org/swagger-api/swagger-spec)
 
 ![](https://avatars3.githubusercontent.com/u/16343502?v=3&s=200)
